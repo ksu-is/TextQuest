@@ -5,7 +5,7 @@
   - Find one repository related to my current project.
   
 - [ ] Clone and test repository.
-  - Clone the selected repository, set it up, and run it.
+  - Clone the selected repository then test it.
 
 - [ ] Create initial project structure in a new GitHub repository.
   - Create folders for the project.
