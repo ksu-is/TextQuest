@@ -1,14 +1,14 @@
 # Project Roadmap
 
-## Current Sprint
-- [ ] Search for related repositories on GitHub and evaluate their features.
-  - Find one repository related to my current project.
-  
-- [ ] Clone and test repository.
-  - Clone the selected repository then test it.
+## Sprint 1
+- [x] Have idea for project.
+- [x] Created README file doing an overview of the project.
+- [x] Find another python code repository similar to your project and test it.
 
-- [ ] Create initial project structure in a new GitHub repository.
-  - Create folders for the project.
+## Sprint 2
+- [x] Make a python file for your code.
+- [ ] Make small updates and commit messages in repository.
+- [ ] Have at least 6 code changes and explain reasoning.
+- [ ] Track progress in roadmap document.
 
-- [ ] Document project setup and usage in the README.
-  - Write installation and usage instructions for the README.md file.
+## Sprint 3
