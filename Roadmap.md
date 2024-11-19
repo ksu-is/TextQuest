@@ -7,7 +7,7 @@
 
 ## Sprint 2
 - [x] Make a python file for your code.
-- [ ] Make small updates and commit messages in repository.
+- [x] Make small updates and commit messages in repository.
 - [ ] Have at least 6 code changes and explain reasoning.
 - [ ] Track progress in roadmap document.
 
