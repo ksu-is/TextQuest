@@ -97,3 +97,45 @@ def climb_tree():
     
     next_step()
 
+def approach_cabin():
+    print("\nYou approach the cabin cautiously. The door creaks open, an old man asks you to come inside.")
+    print("He gives you a map of the forest and tips on how to naivgate.")
+    print("After a quick conversation, you feel more prepared for your journey.")
+    
+    next_step()
+
+def examine_statue():
+    print("\nYou examine the statue carefully. It looks ancient with symbols carved into it.")
+    print("You feel a weird sensation but decide not to go any further.")
+    
+    next_step()
+
+def touch_statue():
+    print("\nYou touch the statue. Suddenly, you feel lightheaded, but you resist the urge to fall asleep.")
+    print("After a few moments your surroundings appear strange.")
+    
+    next_step()
+
+def next_step():
+    print("\nWhere will you go next?")
+    print("1. Return to the forest path")
+    print("2. Explore the village")
+    print("3. Go deeper into the forest")
+    
+    while True:
+        choice = input("What do you want to do? (1, 2, or 3): ").strip()
+
+        if choice == "1":
+            print("You return to the forest path, seeing the end of the path towards civilization.")
+            break
+        elif choice == "2":
+            print("You head toward the village. You’ve completed your adventure for now!")
+            break
+        elif choice == "3":
+            print("You travel deeper into the unknown. The forest seems like it doesn't have an end, and the mysteries within the forest grow.")
+            break
+        else:
+            print("Invalid choice, please try again.")
+           
+start_game()
+
