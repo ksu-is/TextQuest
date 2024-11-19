@@ -4,14 +4,14 @@ def start_game():
     
     while True:
         print("\n1. Enter the forest")
-        print("2. Stay on the path")
+        print("2. Stay on the trail")
         print("3. Turn back.")
         choice = input("What do you want to do? (1, 2, or 3): ").strip()
 
         if choice == "1":
             enter_forest()
         elif choice == "2":
-            stay_on_path()
+            stay_on_trail()
         elif choice == "3":
             print("You decide to turn around and leave. Game over.")
             break
@@ -40,8 +40,8 @@ def enter_forest():
         else:
             print("Invalid choice, please try again.")
 
-def stay_on_path():
-    print("\nYou decide to stay on the path. The path is quiet, but you feel uneasy.")
+def stay_on_trail():
+    print("\nYou decide to stay on the trail. The path is quiet, but you feel uneasy.")
     print("You see a small cabin up ahead. What will you do?")
     
     while True:
@@ -54,7 +54,7 @@ def stay_on_path():
             approach_cabin()
             break
         elif choice == "2":
-            print("You continue walking, but the path seems to go on forever. You decide to turn back.")
+            print("You continue walking, but the trail path seems to go on forever. You decide to turn back.")
         elif choice == "3":
             print("You decide to turn back. Game over.")
             break
