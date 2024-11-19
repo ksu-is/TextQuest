@@ -9,6 +9,6 @@
 - [x] Make a python file for your code.
 - [x] Make small updates and commit messages in repository.
 - [ ] Have at least 6 code changes and explain reasoning.
-- [ ] Track progress in roadmap document.
+- [x] Track progress in roadmap document.
 
 ## Sprint 3
