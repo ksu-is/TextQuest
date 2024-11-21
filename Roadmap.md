@@ -8,7 +8,9 @@
 ## Sprint 2
 - [x] Make a python file for your code.
 - [x] Make small updates and commit messages in repository.
-- [ ] Have at least 6 code changes and explain reasoning.
+- [x] Have at least 6 code changes and explain reasoning.
 - [x] Track progress in roadmap document.
 
 ## Sprint 3
+- [x] Create 1 PPT slide introducting project.
+- [x] Upload copy of PPT to repository
